@@ -38,6 +38,8 @@ body {
     border-radius: 999px;
     padding: 8px 16px;
     backdrop-filter: blur(6px);
+    position: relative;
+    z-index: 10;
 }
 
 .back-btn {
